@@ -1,0 +1,1 @@
+packageSearchIndex = [{"m":"BratislavaGo","l":"Activity"},{"l":"All Packages","u":"allpackages-index.html"},{"m":"BratislavaGo","l":"Controller"},{"m":"BratislavaGo","l":"Group"},{"m":"BratislavaGo","l":"Schedule"},{"m":"BratislavaGo","l":"Service"},{"m":"BratislavaGo","l":"User"}];updateSearchResults();
